@@ -8,7 +8,7 @@
 
 
 ### Olá! Eu sou o Marcel Ferreira Campos 👋
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Apaixonado por tecnologia, arquitetura e por mudar a vida das pessoas através da programação.
 
 ### Stack Tecnológico
 
