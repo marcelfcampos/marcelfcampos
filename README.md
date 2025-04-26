@@ -48,6 +48,7 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 ## Conecte-se comigo:
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelfcampos/target="_blank")
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelfcampos/)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devmarcelcampos/)
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/arqmarcelcampos?fbclid=PAZXh0bgNhZW0CMTEAAaetCCKtCzbd3Q2b860G0DfFgy4eqDRLNrO1cBQbKXPA_QceBcWBkph7d1XbuQ_aem_KXPSdPKr-vtncjHC8yjGqg)
