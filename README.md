@@ -1,4 +1,4 @@
-x<!-- https://www.youtube.com/watch?v=cRoBt6AZgjc&t=15s? -->
+<!-- https://www.youtube.com/watch?v=cRoBt6AZgjc&t=15s? -->
 <!-- Emojis: https://emojipedia.org/ -->
 
 <!-- badges: Site de Badges: https://dev.to/envoy_/150-badges-for-github-pnk -->
@@ -26,16 +26,17 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align="center" alt="nodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img align="center" alt="TypScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img align="center" alt=java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
 </br>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelfcampos)](https://github.com/marcelfcampos/github-readme-stats)
 ![Marcel GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelfcampos&show_icons=true&theme=transparent)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelfcampos)](https://github.com/marcelfcampos/github-readme-stats)
+
 
 
 ## Formação Acadêmica & Cursos Realizados
