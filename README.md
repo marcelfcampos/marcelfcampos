@@ -34,6 +34,10 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 ![Marcel GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelfcampos&show_icons=true&theme=transparent)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Formação Acadêmica & Cursos Realizados
 
 <div>
