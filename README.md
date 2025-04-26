@@ -1,4 +1,4 @@
-<!-- https://www.youtube.com/watch?v=cRoBt6AZgjc&t=15s? -->
+x<!-- https://www.youtube.com/watch?v=cRoBt6AZgjc&t=15s? -->
 <!-- Emojis: https://emojipedia.org/ -->
 
 <!-- badges: Site de Badges: https://dev.to/envoy_/150-badges-for-github-pnk -->
@@ -35,7 +35,7 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 ![Marcel GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelfcampos&show_icons=true&theme=transparent)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelfcampos)](https://github.com/marcelfcampos/github-readme-stats)
 
 
 ## Formação Acadêmica & Cursos Realizados
