@@ -45,7 +45,7 @@ Apaixonado por tecnologia, arquitetura e por mudar a vida das pessoas através d
 <ul>
 <li> Arquitetura e Urbanismo – FURB – Universidade Regional de Blumenau (1995 – 2000)</li></br>
 
-<li> Curso de Formação em Desenvolvimento Web Full Stack – Codans Cursos</li>
+<li> Curso de Formação em Desenvolvimento Web Full Stack – Codans Cursos (2025)</li>
 <li> Certificação em Front-End – SENAI / LAB365/ floripa mais tec (2023)</li>
 <li> Certificação em Back-End – SENAI / LAB365 / floripa mais tec (2023)</li>
 <li> Certificação em Python – Entra21 Blusoft (2024)</li>
