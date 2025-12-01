@@ -32,12 +32,6 @@ Apaixonado por tecnologia, arquitetura e por mudar a vida das pessoas através d
 
 </br>
 
-![Marcel GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelfcampos&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelfcampos)](https://github.com/marcelfcampos/github-readme-stats)
-![Marcel GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelfcampos&show_icons=true&theme=transparent)
-
-
 
 ## Formação Acadêmica & Cursos Concluídos e em Andamento.
 
